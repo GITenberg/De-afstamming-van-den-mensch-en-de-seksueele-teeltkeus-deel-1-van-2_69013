@@ -1,0 +1,34 @@
+_repo: De-afstamming-van-den-mensch-en-de-seksueele-teeltkeus-deel-1-van-2_69013
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Zouteveen, H. Hartogh Heijs van
+    gutenberg_agent_id: '55057'
+    url: http://www.gutenberg.org/2009/agents/55057
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2022-09-19'
+identifiers:
+  gutenberg: '69013'
+language: nl
+pgterms:marc905: 20090123024459darwin
+pgterms:marc906: '1872'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: Netherlands :Joh. IJkema,1872.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De afstamming van den mensch en de seksueele teeltkeus (deel 1 van 2)
+url: http://www.gutenberg.org/ebooks/69013
