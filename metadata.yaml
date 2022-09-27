@@ -5,6 +5,9 @@ contributor:
     agent_name: Zouteveen, H. Hartogh Heijs van
     gutenberg_agent_id: '55057'
     url: http://www.gutenberg.org/2009/agents/55057
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69013#De-afstamming-van-den-mensch-en-de-seksueele-teeltkeus-deel-1-van-2
 gutenberg_issued: '2022-09-19'
 identifiers:
   gutenberg: '69013'
